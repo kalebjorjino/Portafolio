@@ -129,7 +129,7 @@ const handleSubmit = async () => {
               <span class="method-icon">📧</span>
               <div>
                 <h4>Email</h4>
-                <a href="mailto:kalebjorjino@gmail.com">kalebjorjino@gmail.com</a>
+                <a href="mailto:kalebjorjino@gmail.com">20159238si@gmail.com</a>
               </div>
             </div>
 

@@ -2,8 +2,7 @@
 const stats = [
   { number: '4+', label: 'Años Experiencia' },
   { number: '3+', label: 'Proyectos Principales' },
-  { number: '16+', label: 'Tecnologías' },
-  { number: '45+', label: 'Contactos' }
+  { number: '14+', label: 'Tecnologías' },
 ]
 </script>
 
